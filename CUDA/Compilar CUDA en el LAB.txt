@@ -1,0 +1,1 @@
+nvcc <fichero fuente de cuda acabado en extensión ".cu"> -gencode arch=compute_12,code=sm_12

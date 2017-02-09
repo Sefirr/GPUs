@@ -1,0 +1,36 @@
+
+Number of OpenCL platforms: 2
+
+-------------------------
+Platform: NVIDIA CUDA
+Vendor: NVIDIA Corporation
+Version: OpenCL 1.1 CUDA 6.5.33
+Number of devices: 1
+	-------------------------
+		Name: GeForce 210
+		Version: OpenCL C 1.1 
+		Max. Compute Units: 2
+		Local Memory Size: 15 KB
+		Global Memory Size: 1023 MB
+		Max Alloc Size: 255 MB
+		Max Work-group Size: 512
+		Max Work-item Dims: ( 512 512 64 )
+	-------------------------
+
+-------------------------
+Platform: Intel(R) OpenCL
+Vendor: Intel(R) Corporation
+Version: OpenCL 1.2 LINUX
+Number of devices: 1
+	-------------------------
+		Name:         Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+		Version: OpenCL C 1.2 
+		Max. Compute Units: 8
+		Local Memory Size: 32 KB
+		Global Memory Size: 7948 MB
+		Max Alloc Size: 1987 MB
+		Max Work-group Size: 8192
+		Max Work-item Dims: ( 8192 8192 8192 )
+	-------------------------
+
+-------------------------
